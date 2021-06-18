@@ -1,0 +1,52 @@
+{
+  "notifications": [
+    {
+      "id": "0",
+      "type": "cloud",
+      "title": "Possible downtime on 17th Sept'20 at 15:00 IST for 2 hours.",
+      "body": {
+        "content":"Downtime"
+      },
+      "timestamp": 1608181666,
+      "unread": true
+    },
+    {
+      "id": "1",
+      "type": "trending",
+      "title": "Your video is trending now with 1M likes. Congrats!!",
+      "body": {
+        "content":"congrats !"
+      },
+      "timestamp": 1607960162,
+      "unread": true
+    },
+    {
+      "id": "2",
+      "type": "rating",
+      "title": "A new badge achieved!!!",
+      "body": {
+        "top_image_url": "https://miro.medium.com/max/1000/1*92vGicRHnNa6JHLGGiIb_A.jpeg",
+        "content":"You have proved yourself to be a true daredevil. May the fire always kindle within you."
+      },
+      "timestamp": 1607960162,
+      "unread": true
+    },
+    {
+      "id": "3",
+      "type": "user",
+      "title": "niteshdubey100 followed you",
+      "timestamp": 1607960162,
+      "unread": false
+    },
+    {
+      "id": "4",
+      "type": "cloud",
+      "title": "Possible downtime on 17th Sept'20 at 15:00 IST for 2 hours.",
+      "body": {
+        "content":"Downtime"
+      },
+      "timestamp": 1607960162,
+      "unread": false
+    }
+  ]
+}

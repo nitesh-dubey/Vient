@@ -1,0 +1,1931 @@
+{
+
+    "feedbackRoom" : {
+        "chatRoomId" : "feedbackRoom",
+        "users" : [{
+            "_id" : "user1",
+            "name" : "Nitesh Dubey",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+        }, {
+            "_id" : "vientFeedback",
+            "name" : "Vient Feedback",
+            "avatar" : "https://cdn1.iconfinder.com/data/icons/social-media-black-white-1/1024/tinder-bw-512.png"
+        }],
+        "messages" : [{
+            "_id" : "msgfeedback101",
+            "text" : "We would love to hear your feedback or any queries from you !",
+            "createdAt" : 1608720189987,
+            "user" : {
+                "_id" : "vientFeedback",
+                "name" : "Vient Feedback",
+                "avatar" : "https://cdn1.iconfinder.com/data/icons/social-media-black-white-1/1024/tinder-bw-512.png"
+            },
+            "sent" : true,
+            "received" : true
+        }]
+    },
+
+    "room100" : {
+        "chatRoomId" : "room100",
+        "users" : [{
+            "_id" : "user1",
+            "name" : "Nitesh Dubey",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+        }, {
+            "_id" : "user2",
+            "name" : "Kaustav Bhattacharjee",
+            "avatar" : "https://randomuser.me/api/portraits/men/43.jpg"
+        }],
+        "messages" : [{
+            "_id" : "msga101",
+            "text" : "Hey Whatsup !",
+            "createdAt" : 1608720189987,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msga102",
+            "text" : "Hey, How are you ?",
+            "createdAt" : 1608723835134,
+            "user" : {
+                "_id" : "user2",
+                "name" : "Kaustav Bhattacharjee",
+                "avatar" : "https://randomuser.me/api/portraits/men/43.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msga103",
+            "text" : "Not bad, thanks. What about you ?",
+            "createdAt" : 1608723868822,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msga104",
+            "text" : "Exhaustad, actually !! Can't wait for the holidays.",
+            "createdAt" : 1608723868826,
+            "user" : {
+                "_id" : "user2",
+                "name" : "Kaustav Bhattacharjee",
+                "avatar" : "https://randomuser.me/api/portraits/men/43.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msga105",
+            "text" : "Tell me about it !",
+            "createdAt" : 1608723903454,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msga106",
+            "text" : "Listen, I sent you an email earlier. Can you heave a gander at it ?",
+            "createdAt" : 1608723903500,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msga107",
+            "text" : "Sure thing mate ! I'm a bit tied up at the moment, but I'll check it asap.",
+            "createdAt" : 1608723979288,
+            "user" : {
+                "_id" : "user2",
+                "name" : "Kaustav Bhattacharjee",
+                "avatar" : "https://randomuser.me/api/portraits/men/43.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msga108",
+            "text" : "Cool !",
+            "createdAt" : 1608723998440,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msga109",
+            "text" : "The main thing is this conference in Germany. Can you give Valerie a bell or drop while I'm out ?",
+            "createdAt" : 1608723999560,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msga110",
+            "text" : "Yeah, that's what I was thinking, actually",
+            "createdAt" : 1608724011241,
+            "user" : {
+                "_id" : "user2",
+                "name" : "Kaustav Bhattacharjee",
+                "avatar" : "https://randomuser.me/api/portraits/men/43.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msga111",
+            "text" : "You know what happened last time...",
+            "createdAt" : 1608724034966,
+            "user" : {
+                "_id" : "user2",
+                "name" : "Kaustav Bhattacharjee",
+                "avatar" : "https://randomuser.me/api/portraits/men/43.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msga112",
+            "text" : "Indeed Sadly",
+            "createdAt" : 1608724034970,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msga113",
+            "text" : "Ok. I'll get onto it. I'm at a party with Jeanette right now.",
+            "createdAt" : 1608724071549,
+            "user" : {
+                "_id" : "user2",
+                "name" : "Kaustav Bhattacharjee",
+                "avatar" : "https://randomuser.me/api/portraits/men/43.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msga114",
+            "text" : "Oh ! you'd better get off the phone then",
+            "createdAt" : 1608724084584,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msga115",
+            "text" : "I'm already in trouble for taking the PC to bed !",
+            "createdAt" : 1608724098650,
+            "user" : {
+                "_id" : "user2",
+                "name" : "Kaustav Bhattacharjee",
+                "avatar" : "https://randomuser.me/api/portraits/men/43.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msga116",
+            "text" : "Alright. Have a good time !",
+            "createdAt" : 1608724111158,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Kaustav Bhattacharjee",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }]
+    },
+
+
+    "room101" : {
+        "chatRoomId" : "room101",
+        "users" : [{
+            "_id" : "user1",
+            "name" : "Nitesh Dubey",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+        }, {
+            "_id" : "user3",
+            "name" : "Tony Stark",
+            "avatar" : "https://randomuser.me/api/portraits/men/46.jpg"
+        }],
+        "messages" : [{
+            "_id" : "msgb101",
+            "text" : "Hey Whatsup !",
+            "createdAt" : 1608720189987,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgb102",
+            "text" : "Hey, How are you ?",
+            "createdAt" : 1608723835134,
+            "user" : {
+                "_id" : "user3",
+                "name" : "Tony Stark",
+                "avatar" : "https://randomuser.me/api/portraits/men/46.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgb103",
+            "text" : "Not bad, thanks. What about you ?",
+            "createdAt" : 1608723868822,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgb104",
+            "text" : "Exhaustad, actually !! Can't wait for the holidays.",
+            "createdAt" : 1608723868826,
+            "user" : {
+                "_id" : "user3",
+                "name" : "Tony Stark",
+                "avatar" : "https://randomuser.me/api/portraits/men/46.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgb105",
+            "text" : "Tell me about it !",
+            "createdAt" : 1608723903454,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgb106",
+            "text" : "Listen, I sent you an email earlier. Can you heave a gander at it ?",
+            "createdAt" : 1608723903500,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgb107",
+            "text" : "Sure thing mate ! I'm a bit tied up at the moment, but I'll check it asap.",
+            "createdAt" : 1608723979288,
+            "user" : {
+                "_id" : "user3",
+                "name" : "Tony Stark",
+                "avatar" : "https://randomuser.me/api/portraits/men/46.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgb108",
+            "text" : "Cool !",
+            "createdAt" : 1608723998440,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgb109",
+            "text" : "The main thing is this conference in Germany. Can you give Valerie a bell or drop while I'm out ?",
+            "createdAt" : 1608723999560,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgb110",
+            "text" : "Yeah, that's what I was thinking, actually",
+            "createdAt" : 1608724011241,
+            "user" : {
+                "_id" : "user3",
+                "name" : "Tony Stark",
+                "avatar" : "https://randomuser.me/api/portraits/men/46.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgb111",
+            "text" : "You know what happened last time...",
+            "createdAt" : 1608724034966,
+            "user" : {
+                "_id" : "user3",
+                "name" : "Tony Stark",
+                "avatar" : "https://randomuser.me/api/portraits/men/46.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgb112",
+            "text" : "Indeed Sadly",
+            "createdAt" : 1608724034970,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgb113",
+            "text" : "Ok. I'll get onto it. I'm at a party with Pepper right now.",
+            "createdAt" : 1608724071549,
+            "user" : {
+                "_id" : "user3",
+                "name" : "Tony Stark",
+                "avatar" : "https://randomuser.me/api/portraits/men/46.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgb114",
+            "text" : "Oh ! you'd better get off the phone then",
+            "createdAt" : 1608724084584,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgb115",
+            "text" : "I'm already in trouble for taking the PC to bed !",
+            "createdAt" : 1608724098650,
+            "user" : {
+                "_id" : "user3",
+                "name" : "Tony Stark",
+                "avatar" : "https://randomuser.me/api/portraits/men/46.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgb116",
+            "text" : "Alright. Have a good time !",
+            "createdAt" : 1608724111158,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }]
+    },
+
+
+    "room102" : {
+        "chatRoomId" : "room102",
+        "users" : [{
+            "_id" : "user1",
+            "name" : "Nitesh Dubey",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+        }, {
+            "_id" : "user4",
+            "name" : "Thanos",
+            "avatar" : "https://randomuser.me/api/portraits/men/22.jpg"
+        }],
+        "messages" : [{
+            "_id" : "msgc101",
+            "text" : "Hey Whatsup !",
+            "createdAt" : 1608720189987,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgc102",
+            "text" : "Hey, How are you ?",
+            "createdAt" : 1608723835134,
+            "user" : {
+                "_id" : "user4",
+                "name" : "Thanos",
+                "avatar" : "https://randomuser.me/api/portraits/men/22.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgc103",
+            "text" : "Not bad, thanks. What about you ?",
+            "createdAt" : 1608723868822,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgc104",
+            "text" : "Exhaustad, actually !! Can't wait for the holidays.",
+            "createdAt" : 1608723868826,
+            "user" : {
+                "_id" : "user4",
+                "name" : "Thanos",
+                "avatar" : "https://randomuser.me/api/portraits/men/22.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgc105",
+            "text" : "Tell me about it !",
+            "createdAt" : 1608723903454,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgc106",
+            "text" : "Listen, I sent you an email earlier. Can you heave a gander at it ?",
+            "createdAt" : 1608723903500,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgc107",
+            "text" : "Sure thing mate ! I'm a bit tied up at the moment, but I'll check it asap.",
+            "createdAt" : 1608723979288,
+            "user" : {
+                "_id" : "user4",
+                "name" : "Thanos",
+                "avatar" : "https://randomuser.me/api/portraits/men/22.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgc108",
+            "text" : "Cool !",
+            "createdAt" : 1608723998440,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgc109",
+            "text" : "The main thing is this conference in Germany. Can you give Valerie a bell or drop while I'm out ?",
+            "createdAt" : 1608723999560,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgc110",
+            "text" : "Yeah, that's what I was thinking, actually",
+            "createdAt" : 1608724011241,
+            "user" : {
+                "_id" : "user4",
+                "name" : "Thanos",
+                "avatar" : "https://randomuser.me/api/portraits/men/22.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgc111",
+            "text" : "You know what happened last time...",
+            "createdAt" : 1608724034966,
+            "user" : {
+                "_id" : "user4",
+                "name" : "Thanos",
+                "avatar" : "https://randomuser.me/api/portraits/men/22.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgc112",
+            "text" : "Indeed Sadly",
+            "createdAt" : 1608724034970,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgc113",
+            "text" : "Ok. I'll get onto it. I'm at a party with Lady Death right now.",
+            "createdAt" : 1608724071549,
+            "user" : {
+                "_id" : "user4",
+                "name" : "Thanos",
+                "avatar" : "https://randomuser.me/api/portraits/men/22.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgc114",
+            "text" : "Oh ! you'd better get off the phone then",
+            "createdAt" : 1608724084584,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgc115",
+            "text" : "I'm already in trouble for taking the Gauntlet to bed !",
+            "createdAt" : 1608724098650,
+            "user" : {
+                "_id" : "user4",
+                "name" : "Thanos",
+                "avatar" : "https://randomuser.me/api/portraits/men/22.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgc116",
+            "text" : "Alright. Have a good time and be perfectly Balanced as all things should be !",
+            "createdAt" : 1608724111158,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }]
+    },
+
+    "room103" : {
+        "chatRoomId" : "room103",
+        "users" : [{
+            "_id" : "user1",
+            "name" : "Nitesh Dubey",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+        }, {
+            "_id" : "user5",
+            "name" : "Mariko Yashida",
+            "avatar" : "https://randomuser.me/api/portraits/women/76.jpg"
+        }],
+        "messages" : [{
+            "_id" : "msgd101",
+            "text" : "Hey Whatsup !",
+            "createdAt" : 1608720189987,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgd102",
+            "text" : "Hey, How are you ?",
+            "createdAt" : 1608723835134,
+            "user" : {
+                "_id" : "user5",
+                "name" : "Mariko Yashida",
+                "avatar" : "https://randomuser.me/api/portraits/women/76.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgd103",
+            "text" : "Not bad, thanks. What about you ?",
+            "createdAt" : 1608723868822,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgd104",
+            "text" : "Exhaustad, actually !! Can't wait for the holidays.",
+            "createdAt" : 1608723868826,
+            "user" : {
+                "_id" : "user5",
+                "name" : "Mariko Yashida",
+                "avatar" : "https://randomuser.me/api/portraits/women/76.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgd105",
+            "text" : "Tell me about it !",
+            "createdAt" : 1608723903454,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgd106",
+            "text" : "Listen, I sent you an email earlier. Can you heave a gander at it ?",
+            "createdAt" : 1608723903500,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgd107",
+            "text" : "Sure thing mate ! I'm a bit tied up at the moment, but I'll check it asap.",
+            "createdAt" : 1608723979288,
+            "user" : {
+                "_id" : "user5",
+                "name" : "Mariko Yashida",
+                "avatar" : "https://randomuser.me/api/portraits/women/76.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgd108",
+            "text" : "Cool !",
+            "createdAt" : 1608723998440,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgd109",
+            "text" : "The main thing is this conference in Germany. Can you give Valerie a bell or drop while I'm out ?",
+            "createdAt" : 1608723999560,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgd110",
+            "text" : "Yeah, that's what I was thinking, actually",
+            "createdAt" : 1608724011241,
+            "user" : {
+                "_id" : "user5",
+                "name" : "Mariko Yashida",
+                "avatar" : "https://randomuser.me/api/portraits/women/76.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgd111",
+            "text" : "You know what happened last time...",
+            "createdAt" : 1608724034966,
+            "user" : {
+                "_id" : "user5",
+                "name" : "Mariko Yashida",
+                "avatar" : "https://randomuser.me/api/portraits/women/76.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgd112",
+            "text" : "Indeed Sadly",
+            "createdAt" : 1608724034970,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgd113",
+            "text" : "Ok. I'll get onto it. I'm at a party with Someone right now.",
+            "createdAt" : 1608724071549,
+            "user" : {
+                "_id" : "user5",
+                "name" : "Mariko Yashida",
+                "avatar" : "https://randomuser.me/api/portraits/women/76.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgd114",
+            "text" : "Oh ! you'd better get off the phone then",
+            "createdAt" : 1608724084584,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgd115",
+            "text" : "I'm already in trouble for taking the PC to bed !",
+            "createdAt" : 1608724098650,
+            "user" : {
+                "_id" : "user5",
+                "name" : "Mariko Yashida",
+                "avatar" : "https://randomuser.me/api/portraits/women/76.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgd116",
+            "text" : "Alright. Have a good time !",
+            "createdAt" : 1608724111158,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }]
+    },
+
+    "room104" : {
+        "chatRoomId" : "room104",
+        "users" : [{
+            "_id" : "user1",
+            "name" : "Nitesh Dubey",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+        }, {
+            "_id" : "user6",
+            "name" : "Natasha",
+            "avatar" : "https://randomuser.me/api/portraits/women/68.jpg"
+        }],
+        "messages" : [{
+            "_id" : "msge101",
+            "text" : "Hey Whatsup !",
+            "createdAt" : 1608720189987,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msge102",
+            "text" : "Hey, How are you ?",
+            "createdAt" : 1608723835134,
+            "user" : {
+                "_id" : "user6",
+                "name" : "Natasha",
+                "avatar" : "https://randomuser.me/api/portraits/women/68.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msge103",
+            "text" : "Not bad, thanks. What about you ?",
+            "createdAt" : 1608723868822,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msge104",
+            "text" : "Exhaustad, actually !! Can't wait for the holidays.",
+            "createdAt" : 1608723868826,
+            "user" : {
+                "_id" : "user6",
+                "name" : "Natasha",
+                "avatar" : "https://randomuser.me/api/portraits/women/68.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msge105",
+            "text" : "Tell me about it !",
+            "createdAt" : 1608723903454,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msge106",
+            "text" : "Listen, I sent you an email earlier. Can you heave a gander at it ?",
+            "createdAt" : 1608723903500,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msge107",
+            "text" : "Sure thing mate ! I'm a bit tied up at the moment, but I'll check it asap.",
+            "createdAt" : 1608723979288,
+            "user" : {
+                "_id" : "user6",
+                "name" : "Natasha",
+                "avatar" : "https://randomuser.me/api/portraits/women/68.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msge108",
+            "text" : "Cool !",
+            "createdAt" : 1608723998440,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msge109",
+            "text" : "The main thing is this conference in Germany. Can you give Valerie a bell or drop while I'm out ?",
+            "createdAt" : 1608723999560,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msge110",
+            "text" : "Yeah, that's what I was thinking, actually",
+            "createdAt" : 1608724011241,
+            "user" : {
+                "_id" : "user6",
+                "name" : "Natasha",
+                "avatar" : "https://randomuser.me/api/portraits/women/68.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msge111",
+            "text" : "You know what happened last time...",
+            "createdAt" : 1608724034966,
+            "user" : {
+                "_id" : "user6",
+                "name" : "Natasha",
+                "avatar" : "https://randomuser.me/api/portraits/women/68.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msge112",
+            "text" : "Indeed Sadly",
+            "createdAt" : 1608724034970,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msge113",
+            "text" : "Ok. I'll get onto it. I'm at a party with my brother right now.",
+            "createdAt" : 1608724071549,
+            "user" : {
+                "_id" : "user6",
+                "name" : "Natasha",
+                "avatar" : "https://randomuser.me/api/portraits/women/68.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msge114",
+            "text" : "Oh ! you'd better get off the phone then",
+            "createdAt" : 1608724084584,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msge115",
+            "text" : "I'm already in trouble for taking the PC to bed !",
+            "createdAt" : 1608724098650,
+            "user" : {
+                "_id" : "user6",
+                "name" : "Natasha",
+                "avatar" : "https://randomuser.me/api/portraits/women/68.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msge116",
+            "text" : "Goodnight. Have a good time. I'll see you tomorrow at the park !",
+            "createdAt" : 1608724111158,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }]
+    },
+
+
+    "room105" : {
+        "chatRoomId" : "room105",
+        "users" : [{
+            "_id" : "user1",
+            "name" : "Nitesh Dubey",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+        }, {
+            "_id" : "user7",
+            "name" : "Elizabeth",
+            "avatar" : "https://randomuser.me/api/portraits/women/17.jpg"
+        }],
+        "messages" : [{
+            "_id" : "msgf101",
+            "text" : "Hey Whatsup !",
+            "createdAt" : 1608720189987,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgf102",
+            "text" : "Hey, How are you ?",
+            "createdAt" : 1608723835134,
+            "user" : {
+                "_id" : "user7",
+                "name" : "Elizabeth",
+                "avatar" : "https://randomuser.me/api/portraits/women/17.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgf103",
+            "text" : "Not bad, thanks. What about you ?",
+            "createdAt" : 1608723868822,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgf104",
+            "text" : "Exhaustad, actually !! Can't wait for the holidays.",
+            "createdAt" : 1608723868826,
+            "user" : {
+                "_id" : "user7",
+                "name" : "Elizabeth",
+                "avatar" : "https://randomuser.me/api/portraits/women/17.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgf105",
+            "text" : "Tell me about it !",
+            "createdAt" : 1608723903454,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgf106",
+            "text" : "Listen, I sent you an email earlier. Can you heave a gander at it ?",
+            "createdAt" : 1608723903500,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgf107",
+            "text" : "Sure thing mate ! I'm a bit tied up at the moment, but I'll check it asap.",
+            "createdAt" : 1608723979288,
+            "user" : {
+                "_id" : "user7",
+                "name" : "Elizabeth",
+                "avatar" : "https://randomuser.me/api/portraits/women/17.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgf108",
+            "text" : "Cool !",
+            "createdAt" : 1608723998440,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgf109",
+            "text" : "The main thing is this conference in Germany. Can you give Valerie a bell or drop while I'm out ?",
+            "createdAt" : 1608723999560,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgf110",
+            "text" : "Yeah, that's what I was thinking, actually",
+            "createdAt" : 1608724011241,
+            "user" : {
+                "_id" : "user7",
+                "name" : "Elizabeth",
+                "avatar" : "https://randomuser.me/api/portraits/women/17.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgf111",
+            "text" : "You know what happened last time...",
+            "createdAt" : 1608724034966,
+            "user" : {
+                "_id" : "user7",
+                "name" : "Elizabeth",
+                "avatar" : "https://randomuser.me/api/portraits/women/17.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgf112",
+            "text" : "Indeed Sadly",
+            "createdAt" : 1608724034970,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgf113",
+            "text" : "Ok. I'll get onto it. I'm at a party with Someone right now.",
+            "createdAt" : 1608724071549,
+            "user" : {
+                "_id" : "user7",
+                "name" : "Elizabeth",
+                "avatar" : "https://randomuser.me/api/portraits/women/17.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgf114",
+            "text" : "Oh ! you'd better get off the phone then",
+            "createdAt" : 1608724084584,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgf115",
+            "text" : "I'm already in trouble for taking the PC to bed !",
+            "createdAt" : 1608724098650,
+            "user" : {
+                "_id" : "user7",
+                "name" : "Elizabeth",
+                "avatar" : "https://randomuser.me/api/portraits/women/17.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgf116",
+            "text" : "Alright. Have a good time !",
+            "createdAt" : 1608724111158,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }]
+    },
+
+    "room106" : {
+        "chatRoomId" : "room106",
+        "users" : [{
+            "_id" : "user1",
+            "name" : "Nitesh Dubey",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+        }, {
+            "_id" : "user8",
+            "name" : "Mio",
+            "avatar" : "https://randomuser.me/api/portraits/women/40.jpg"
+        }],
+        "messages" : [{
+            "_id" : "msgg101",
+            "text" : "Hey Whatsup !",
+            "createdAt" : 1608720189987,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgg102",
+            "text" : "Hey, How are you ?",
+            "createdAt" : 1608723835134,
+            "user" : {
+                "_id" : "user8",
+                "name" : "Mio",
+                "avatar" : "https://randomuser.me/api/portraits/women/40.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgg103",
+            "text" : "Not bad, thanks. What about you ?",
+            "createdAt" : 1608723868822,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgg104",
+            "text" : "Exhaustad, actually !! Can't wait for the holidays.",
+            "createdAt" : 1608723868826,
+            "user" : {
+                "_id" : "user8",
+                "name" : "Mio",
+                "avatar" : "https://randomuser.me/api/portraits/women/40.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgg105",
+            "text" : "Tell me about it !",
+            "createdAt" : 1608723903454,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgg106",
+            "text" : "Listen, I sent you an email earlier. Can you heave a gander at it ?",
+            "createdAt" : 1608723903500,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgg107",
+            "text" : "Sure thing mate ! I'm a bit tied up at the moment, but I'll check it asap.",
+            "createdAt" : 1608723979288,
+            "user" : {
+                "_id" : "user8",
+                "name" : "Mio",
+                "avatar" : "https://randomuser.me/api/portraits/women/40.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgg108",
+            "text" : "Cool !",
+            "createdAt" : 1608723998440,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgg109",
+            "text" : "The main thing is this conference in Germany. Can you give Valerie a bell or drop while I'm out ?",
+            "createdAt" : 1608723999560,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgg110",
+            "text" : "Yeah, that's what I was thinking, actually",
+            "createdAt" : 1608724011241,
+            "user" : {
+                "_id" : "user8",
+                "name" : "Mio",
+                "avatar" : "https://randomuser.me/api/portraits/women/40.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgg111",
+            "text" : "You know what happened last time...",
+            "createdAt" : 1608724034966,
+            "user" : {
+                "_id" : "user8",
+                "name" : "Mio",
+                "avatar" : "https://randomuser.me/api/portraits/women/40.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgg112",
+            "text" : "Indeed Sadly",
+            "createdAt" : 1608724034970,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgg113",
+            "text" : "Ok. I'll get onto it. I'm at a party with my mom right now.",
+            "createdAt" : 1608724071549,
+            "user" : {
+                "_id" : "user8",
+                "name" : "Mio",
+                "avatar" : "https://randomuser.me/api/portraits/women/40.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgg114",
+            "text" : "Oh ! you'd better get off the phone then",
+            "createdAt" : 1608724084584,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgg115",
+            "text" : "I'm already in trouble for taking the PC to bed !",
+            "createdAt" : 1608724098650,
+            "user" : {
+                "_id" : "user8",
+                "name" : "Mio",
+                "avatar" : "https://randomuser.me/api/portraits/women/40.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgg116",
+            "text" : "Okay, Bye Mio. Have fun at the Party and let me know the whereabouts later !",
+            "createdAt" : 1608724111158,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }]
+    },
+
+    "room107" : {
+        "chatRoomId" : "room107",
+        "users" : [{
+            "_id" : "user1",
+            "name" : "Nitesh Dubey",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+        }, {
+            "_id" : "user9",
+            "name" : "Erza",
+            "avatar" : "https://randomuser.me/api/portraits/women/72.jpg"
+        }],
+        "messages" : [{
+            "_id" : "msgh101",
+            "text" : "Hey Whatsup !",
+            "createdAt" : 1608720189987,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgh102",
+            "text" : "Hey, How are you ?",
+            "createdAt" : 1608723835134,
+            "user" : {
+                "_id" : "user9",
+                "name" : "Erza",
+                "avatar" : "https://randomuser.me/api/portraits/women/72.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgh103",
+            "text" : "Not bad, thanks. What about you ?",
+            "createdAt" : 1608723868822,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgh104",
+            "text" : "Exhaustad, actually !! Can't wait for the holidays.",
+            "createdAt" : 1608723868826,
+            "user" : {
+                "_id" : "user9",
+                "name" : "Erza",
+                "avatar" : "https://randomuser.me/api/portraits/women/72.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgh105",
+            "text" : "Tell me about it !",
+            "createdAt" : 1608723903454,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgh106",
+            "text" : "Listen, I sent you an email earlier. Can you heave a gander at it ?",
+            "createdAt" : 1608723903500,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgh107",
+            "text" : "Sure thing mate ! I'm a bit tied up at the moment, but I'll check it asap.",
+            "createdAt" : 1608723979288,
+            "user" : {
+                "_id" : "user9",
+                "name" : "Erza",
+                "avatar" : "https://randomuser.me/api/portraits/women/72.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgh108",
+            "text" : "Cool !",
+            "createdAt" : 1608723998440,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgh109",
+            "text" : "The main thing is this conference in Germany. Can you give Valerie a bell or drop while I'm out ?",
+            "createdAt" : 1608723999560,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgh110",
+            "text" : "Yeah, that's what I was thinking, actually",
+            "createdAt" : 1608724011241,
+            "user" : {
+                "_id" : "user9",
+                "name" : "Erza",
+                "avatar" : "https://randomuser.me/api/portraits/women/72.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgh111",
+            "text" : "You know what happened last time...",
+            "createdAt" : 1608724034966,
+            "user" : {
+                "_id" : "user9",
+                "name" : "Erza",
+                "avatar" : "https://randomuser.me/api/portraits/women/72.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgh112",
+            "text" : "Indeed Sadly",
+            "createdAt" : 1608724034970,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgh113",
+            "text" : "Ok. I'll get onto it. I'm at a party with my mom right now.",
+            "createdAt" : 1608724071549,
+            "user" : {
+                "_id" : "user9",
+                "name" : "Erza",
+                "avatar" : "https://randomuser.me/api/portraits/women/72.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgh114",
+            "text" : "Oh ! you'd better get off the phone then",
+            "createdAt" : 1608724084584,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgh115",
+            "text" : "I'm already in trouble for taking the PC to bed !",
+            "createdAt" : 1608724098650,
+            "user" : {
+                "_id" : "user9",
+                "name" : "Erza",
+                "avatar" : "https://randomuser.me/api/portraits/women/72.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgh116",
+            "text" : "Alright. Kaustav wanted to see you at the park, so please give him a call, Bye !",
+            "createdAt" : 1608724111158,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }]
+    },
+
+    "room108" : {
+        "chatRoomId" : "room108",
+        "users" : [{
+            "_id" : "user1",
+            "name" : "Nitesh Dubey",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+        }, {
+            "_id" : "user10",
+            "name" : "Kenji",
+            "avatar" : "https://randomuser.me/api/portraits/men/51.jpg"
+        }],
+        "messages" : [{
+            "_id" : "msgi101",
+            "text" : "Hey Whatsup !",
+            "createdAt" : 1608720189987,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgi102",
+            "text" : "Hey, How are you ?",
+            "createdAt" : 1608723835134,
+            "user" : {
+                "_id" : "user10",
+                "name" : "Kenji",
+                "avatar" : "https://randomuser.me/api/portraits/men/51.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgi103",
+            "text" : "Not bad, thanks. What about you ?",
+            "createdAt" : 1608723868822,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgi104",
+            "text" : "Exhaustad, actually !! Can't wait for the holidays.",
+            "createdAt" : 1608723868826,
+            "user" : {
+                "_id" : "user10",
+                "name" : "Kenji",
+                "avatar" : "https://randomuser.me/api/portraits/men/51.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgi105",
+            "text" : "Tell me about it !",
+            "createdAt" : 1608723903454,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgi106",
+            "text" : "Listen, I sent you an email earlier. Can you heave a gander at it ?",
+            "createdAt" : 1608723903500,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgi107",
+            "text" : "Sure thing mate ! I'm a bit tied up at the moment, but I'll check it asap.",
+            "createdAt" : 1608723979288,
+            "user" : {
+                "_id" : "user10",
+                "name" : "Kenji",
+                "avatar" : "https://randomuser.me/api/portraits/men/51.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgi108",
+            "text" : "Cool !",
+            "createdAt" : 1608723998440,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgi109",
+            "text" : "The main thing is this conference in Germany. Can you give Valerie a bell or drop while I'm out ?",
+            "createdAt" : 1608723999560,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgi110",
+            "text" : "Yeah, that's what I was thinking, actually",
+            "createdAt" : 1608724011241,
+            "user" : {
+                "_id" : "user10",
+                "name" : "Kenji",
+                "avatar" : "https://randomuser.me/api/portraits/men/51.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgi111",
+            "text" : "You know what happened last time...",
+            "createdAt" : 1608724034966,
+            "user" : {
+                "_id" : "user10",
+                "name" : "Kenji",
+                "avatar" : "https://randomuser.me/api/portraits/men/51.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgi112",
+            "text" : "Indeed Sadly",
+            "createdAt" : 1608724034970,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgi113",
+            "text" : "Ok. I'll get onto it. I'm at a party with Someone right now.",
+            "createdAt" : 1608724071549,
+            "user" : {
+                "_id" : "user10",
+                "name" : "Kenji",
+                "avatar" : "https://randomuser.me/api/portraits/men/51.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgi114",
+            "text" : "Oh ! you'd better get off the phone then",
+            "createdAt" : 1608724084584,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgi115",
+            "text" : "I'm already in trouble for taking the PC to bed !",
+            "createdAt" : 1608724098650,
+            "user" : {
+                "_id" : "user10",
+                "name" : "Kenji",
+                "avatar" : "https://randomuser.me/api/portraits/men/51.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgi116",
+            "text" : "Enjoy The moment boy. See you later next week at the office !",
+            "createdAt" : 1608724111158,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }]
+    },
+
+    "room109" : {
+        "chatRoomId" : "room109",
+        "users" : [{
+            "_id" : "user1",
+            "name" : "Nitesh Dubey",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+        }, {
+            "_id" : "user11",
+            "name" : "Tom",
+            "avatar" : "https://randomuser.me/api/portraits/men/1.jpg"
+        }],
+        "messages" : [{
+            "_id" : "msgj101",
+            "text" : "Hey Whatsup !",
+            "createdAt" : 1608720189987,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgj102",
+            "text" : "Hey, How are you ?",
+            "createdAt" : 1608723835134,
+            "user" : {
+                "_id" : "user11",
+                "name" : "Tom",
+                "avatar" : "https://randomuser.me/api/portraits/men/1.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgj103",
+            "text" : "Not bad, thanks. What about you ?",
+            "createdAt" : 1608723868822,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgj104",
+            "text" : "Exhaustad, actually !! Can't wait for the holidays.",
+            "createdAt" : 1608723868826,
+            "user" : {
+                "_id" : "user11",
+                "name" : "Tom",
+                "avatar" : "https://randomuser.me/api/portraits/men/1.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgj105",
+            "text" : "Tell me about it !",
+            "createdAt" : 1608723903454,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgj106",
+            "text" : "Listen, I sent you an email earlier. Can you heave a gander at it ?",
+            "createdAt" : 1608723903500,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgj107",
+            "text" : "Sure thing mate ! I'm a bit tied up at the moment, but I'll check it asap.",
+            "createdAt" : 1608723979288,
+            "user" : {
+                "_id" : "user11",
+                "name" : "Tom",
+                "avatar" : "https://randomuser.me/api/portraits/men/1.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgj108",
+            "text" : "Cool !",
+            "createdAt" : 1608723998440,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgj109",
+            "text" : "The main thing is this conference in Germany. Can you give Valerie a bell or drop while I'm out ?",
+            "createdAt" : 1608723999560,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgj110",
+            "text" : "Yeah, that's what I was thinking, actually",
+            "createdAt" : 1608724011241,
+            "user" : {
+                "_id" : "user11",
+                "name" : "Tom",
+                "avatar" : "https://randomuser.me/api/portraits/men/1.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgj111",
+            "text" : "You know what happened last time...",
+            "createdAt" : 1608724034966,
+            "user" : {
+                "_id" : "user11",
+                "name" : "Tom",
+                "avatar" : "https://randomuser.me/api/portraits/men/1.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgj112",
+            "text" : "Indeed Sadly",
+            "createdAt" : 1608724034970,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgj113",
+            "text" : "Ok. I'll get onto it. I'm at a party with Someone right now.",
+            "createdAt" : 1608724071549,
+            "user" : {
+                "_id" : "user11",
+                "name" : "Tom",
+                "avatar" : "https://randomuser.me/api/portraits/men/1.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgj114",
+            "text" : "Oh ! you'd better get off the phone then",
+            "createdAt" : 1608724084584,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgj115",
+            "text" : "I'm already in trouble for taking the PC to bed !",
+            "createdAt" : 1608724098650,
+            "user" : {
+                "_id" : "user11",
+                "name" : "Tom",
+                "avatar" : "https://randomuser.me/api/portraits/men/1.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }, {
+            "_id" : "msgj116",
+            "text" : "Jerry wanted to have a talk with you. Be sure to contact him later. Goodnight !",
+            "createdAt" : 1608724111158,
+            "user" : {
+                "_id" : "user1",
+                "name" : "Nitesh Dubey",
+                "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+            },
+            "sent" : true,
+            "received" : true
+        }]
+    }
+    
+}

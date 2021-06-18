@@ -1,0 +1,520 @@
+{
+    "myUserId" : "user1",
+
+    "user1" : {
+
+        "userInfo" : {
+            "userId" : "user1",
+            "username" : "nitesh",
+            "name" : "Nitesh Dubey",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg",
+            "followers_count" : 84241,
+            "following_count" : 246,
+            "videos_count" : 526,
+            "description" : "Co-Founder at Vibranum and Vient."
+        },
+        "videoDataList" : {
+            "challenges" : [
+                {"videoId" : "12345", "thumbnailURL" : "https://randomuser.me/api/portraits/women/72.jpg"},
+                {"videoId" : "12346", "thumbnailURL" : "https://randomuser.me/api/portraits/women/50.jpg"},
+                {"videoId" : "12347", "thumbnailURL" : "https://randomuser.me/api/portraits/men/33.jpg"},
+                {"videoId" : "12348", "thumbnailURL" : "https://picsum.photos/642/580"},
+                {"videoId" : "12349", "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12350", "thumbnailURL" : "https://randomuser.me/api/portraits/women/74.jpg"},
+                {"videoId" : "12351", "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12352", "thumbnailURL" : "https://randomuser.me/api/portraits/men/64.jpg"},
+                {"videoId" : "12353", "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12354", "thumbnailURL" : "https://randomuser.me/api/portraits/women/76.jpg"},
+                {"videoId" : "12355", "thumbnailURL" : "https://picsum.photos/630/630"},
+                {"videoId" : "12356", "thumbnailURL" : "https://picsum.photos/500/500"},
+                {"videoId" : "12357", "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12358", "thumbnailURL" : "https://picsum.photos/390/410"},
+                {"videoId" : "12359", "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12360", "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12361", "thumbnailURL" : "https://picsum.photos/310/400"},
+                {"videoId" : "12362", "thumbnailURL" : "https://picsum.photos/410/410"},
+                {"videoId" : "12363", "thumbnailURL" : "https://picsum.photos/320/330"},
+                {"videoId" : "12364", "thumbnailURL" : "https://picsum.photos/340/300"},
+                {"videoId" : "12365", "thumbnailURL" : "https://picsum.photos/642/580"},
+                {"videoId" : "12366", "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12367", "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12368", "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12369", "thumbnailURL" : "https://randomuser.me/api/portraits/men/43.jpg"},
+                {"videoId" : "12370", "thumbnailURL" : "https://picsum.photos/630/630"},
+                {"videoId" : "12371", "thumbnailURL" : "https://picsum.photos/500/500"},
+                {"videoId" : "12372", "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12373", "thumbnailURL" : "https://picsum.photos/390/410"},
+                {"videoId" : "12374", "thumbnailURL" : "https://picsum.photos/400/410"}
+                
+            ],
+            "replies" : [
+                {"videoId" : "12375",  "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12376",  "thumbnailURL" : "https://picsum.photos/310/400"},
+                {"videoId" : "12377",  "thumbnailURL" : "https://picsum.photos/410/410"},
+                {"videoId" : "12378",  "thumbnailURL" : "https://picsum.photos/320/330"},
+                {"videoId" : "12379",  "thumbnailURL" : "https://picsum.photos/340/300"},
+                {"videoId" : "12380",  "thumbnailURL" : "https://picsum.photos/642/580"},
+                {"videoId" : "12381",  "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12382",  "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12383",  "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12384",  "thumbnailURL" : "https://randomuser.me/api/portraits/men/43.jpg"},
+                {"videoId" : "12385",  "thumbnailURL" : "https://picsum.photos/630/630"},
+                {"videoId" : "12386",  "thumbnailURL" : "https://picsum.photos/500/500"},
+                {"videoId" : "12387",  "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12388",  "thumbnailURL" : "https://picsum.photos/390/410"},
+                {"videoId" : "12389",  "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12390",  "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12391",  "thumbnailURL" : "https://picsum.photos/310/400"},
+                {"videoId" : "12392",  "thumbnailURL" : "https://picsum.photos/410/410"},
+                {"videoId" : "12393",  "thumbnailURL" : "https://picsum.photos/320/330"},
+                {"videoId" : "12394",  "thumbnailURL" : "https://picsum.photos/340/300"},
+                {"videoId" : "12395",  "thumbnailURL" : "https://picsum.photos/642/580"},
+                {"videoId" : "12396",  "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12397",  "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12398",  "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12399",  "thumbnailURL" : "https://randomuser.me/api/portraits/women/90.jpg"},
+                {"videoId" : "12400",  "thumbnailURL" : "https://picsum.photos/630/630"},
+                {"videoId" : "12401",  "thumbnailURL" : "https://picsum.photos/500/500"},
+                {"videoId" : "12402",  "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12403",  "thumbnailURL" : "https://picsum.photos/390/410"},
+                {"videoId" : "12404",  "thumbnailURL" : "https://picsum.photos/400/410"}
+            ]
+        }   
+    },
+
+    "user2" : {
+
+        "userInfo" : {
+            "userId" : "user2",
+            "username" : "kaustav",
+            "name" : "Kaustav Bhattacharjee",
+            "avatar" : "https://randomuser.me/api/portraits/men/43.jpg",
+            "followers_count" : 96241,
+            "following_count" : 301,
+            "videos_count" : 812,
+            "description" : "Co-Founder at Vibranum and Vient."
+        },
+        "videoDataList" : {
+            "challenges" : [
+                {"videoId" : "12405", "thumbnailURL" : "https://randomuser.me/api/portraits/women/79.jpg"},
+                {"videoId" : "12406", "thumbnailURL" : "https://randomuser.me/api/portraits/women/80.jpg"},
+                {"videoId" : "12407", "thumbnailURL" : "https://randomuser.me/api/portraits/men/38.jpg"},
+                {"videoId" : "12408", "thumbnailURL" : "https://randomuser.me/api/portraits/men/40.jpg"},
+                {"videoId" : "12409", "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12410", "thumbnailURL" : "https://randomuser.me/api/portraits/women/74.jpg"},
+                {"videoId" : "12411", "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12412", "thumbnailURL" : "https://randomuser.me/api/portraits/men/64.jpg"},
+                {"videoId" : "12413", "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12414", "thumbnailURL" : "https://randomuser.me/api/portraits/women/76.jpg"},
+                {"videoId" : "12415", "thumbnailURL" : "https://picsum.photos/630/630"},
+                {"videoId" : "12416", "thumbnailURL" : "https://picsum.photos/500/500"},
+                {"videoId" : "12417", "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12418", "thumbnailURL" : "https://picsum.photos/390/410"},
+                {"videoId" : "12419", "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12420", "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12421", "thumbnailURL" : "https://picsum.photos/310/400"},
+                {"videoId" : "12422", "thumbnailURL" : "https://picsum.photos/410/410"},
+                {"videoId" : "12423", "thumbnailURL" : "https://picsum.photos/320/330"},
+                {"videoId" : "12424", "thumbnailURL" : "https://picsum.photos/340/300"},
+                {"videoId" : "12425", "thumbnailURL" : "https://picsum.photos/642/580"},
+                {"videoId" : "12426", "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12427", "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12428", "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12429", "thumbnailURL" : "https://randomuser.me/api/portraits/men/43.jpg"},
+                {"videoId" : "12430", "thumbnailURL" : "https://picsum.photos/630/630"}
+                
+            ],
+            "replies" : [
+                {"videoId" : "12431",  "thumbnailURL" : "https://randomuser.me/api/portraits/women/90.jpg"},
+                {"videoId" : "12432",  "thumbnailURL" : "https://picsum.photos/310/400"},
+                {"videoId" : "12433",  "thumbnailURL" : "https://picsum.photos/410/410"},
+                {"videoId" : "12434",  "thumbnailURL" : "https://picsum.photos/320/330"},
+                {"videoId" : "12435",  "thumbnailURL" : "https://picsum.photos/340/300"},
+                {"videoId" : "12436",  "thumbnailURL" : "https://picsum.photos/642/580"},
+                {"videoId" : "12437",  "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12438",  "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12439",  "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12440",  "thumbnailURL" : "https://randomuser.me/api/portraits/men/43.jpg"}
+            ]
+        }   
+    },
+
+    "user3" : {
+
+        "userInfo" : {
+            "userId" : "user3",
+            "username" : "iron_man",
+            "name" : "Tony Stark",
+            "avatar" : "https://randomuser.me/api/portraits/men/46.jpg",
+            "followers_count" : 962411,
+            "following_count" : 210,
+            "videos_count" : 213,
+            "description" : "I am Iron Man !"
+        },
+        "videoDataList" : {
+            "challenges" : [
+                {"videoId" : "12441", "thumbnailURL" : "https://randomuser.me/api/portraits/women/79.jpg"},
+                {"videoId" : "12442", "thumbnailURL" : "https://randomuser.me/api/portraits/women/80.jpg"},
+                {"videoId" : "12443", "thumbnailURL" : "https://randomuser.me/api/portraits/men/38.jpg"},
+                {"videoId" : "12444", "thumbnailURL" : "https://randomuser.me/api/portraits/men/40.jpg"},
+                {"videoId" : "12445", "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12446", "thumbnailURL" : "https://randomuser.me/api/portraits/women/74.jpg"},
+                {"videoId" : "12447", "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12448", "thumbnailURL" : "https://randomuser.me/api/portraits/men/64.jpg"},
+                {"videoId" : "12449", "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12450", "thumbnailURL" : "https://randomuser.me/api/portraits/women/76.jpg"},
+                {"videoId" : "12451", "thumbnailURL" : "https://picsum.photos/630/630"}
+                
+            ],
+            "replies" : [
+                {"videoId" : "12452",  "thumbnailURL" : "https://randomuser.me/api/portraits/women/90.jpg"},
+                {"videoId" : "12453",  "thumbnailURL" : "https://picsum.photos/310/400"},
+                {"videoId" : "12454",  "thumbnailURL" : "https://picsum.photos/410/410"},
+                {"videoId" : "12454",  "thumbnailURL" : "https://picsum.photos/320/330"},
+                {"videoId" : "12456",  "thumbnailURL" : "https://picsum.photos/340/300"},
+                {"videoId" : "12457",  "thumbnailURL" : "https://picsum.photos/642/580"},
+                {"videoId" : "12458",  "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12459",  "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12460",  "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12461",  "thumbnailURL" : "https://randomuser.me/api/portraits/men/43.jpg"}
+            ]
+        }   
+    },
+
+    "user4" : {
+
+        "userInfo" : {
+            "userId" : "user4",
+            "username" : "mad_titan",
+            "name" : "Thanos",
+            "avatar" : "https://randomuser.me/api/portraits/men/22.jpg",
+            "followers_count" : 912411,
+            "following_count" : 129,
+            "videos_count" : 232,
+            "description" : "Perfectly Balanced as all things should be !"
+        },
+        "videoDataList" : {
+            "challenges" : [
+                {"videoId" : "12462", "thumbnailURL" : "https://randomuser.me/api/portraits/women/79.jpg"},
+                {"videoId" : "12463", "thumbnailURL" : "https://randomuser.me/api/portraits/women/80.jpg"},
+                {"videoId" : "12464", "thumbnailURL" : "https://randomuser.me/api/portraits/men/38.jpg"},
+                {"videoId" : "12465", "thumbnailURL" : "https://randomuser.me/api/portraits/men/40.jpg"},
+                {"videoId" : "12466", "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12467", "thumbnailURL" : "https://randomuser.me/api/portraits/women/74.jpg"},
+                {"videoId" : "12468", "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12469", "thumbnailURL" : "https://randomuser.me/api/portraits/men/64.jpg"},
+                {"videoId" : "12470", "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12471", "thumbnailURL" : "https://randomuser.me/api/portraits/women/76.jpg"},
+                {"videoId" : "12472", "thumbnailURL" : "https://picsum.photos/630/630"}
+                
+            ],
+            "replies" : [
+                {"videoId" : "12473",  "thumbnailURL" : "https://randomuser.me/api/portraits/women/90.jpg"},
+                {"videoId" : "12474",  "thumbnailURL" : "https://picsum.photos/310/400"},
+                {"videoId" : "12475",  "thumbnailURL" : "https://picsum.photos/410/410"},
+                {"videoId" : "12476",  "thumbnailURL" : "https://picsum.photos/320/330"},
+                {"videoId" : "12477",  "thumbnailURL" : "https://picsum.photos/340/300"},
+                {"videoId" : "12478",  "thumbnailURL" : "https://picsum.photos/642/580"},
+                {"videoId" : "12479",  "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12480",  "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12481",  "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12482",  "thumbnailURL" : "https://randomuser.me/api/portraits/men/43.jpg"}
+            ]
+        }   
+    },
+
+    "user5" : {
+
+        "userInfo" : {
+            "userId" : "user5",
+            "username" : "its_mariko",
+            "name" : "Mariko Yashida",
+            "avatar" : "https://randomuser.me/api/portraits/women/76.jpg",
+            "followers_count" : 722411,
+            "following_count" : 152,
+            "videos_count" : 254,
+            "description" : "I only need a smile to turn around a bad day."
+        },
+        "videoDataList" : {
+            "challenges" : [
+                {"videoId" : "12483", "thumbnailURL" : "https://randomuser.me/api/portraits/women/79.jpg"},
+                {"videoId" : "12484", "thumbnailURL" : "https://randomuser.me/api/portraits/women/80.jpg"},
+                {"videoId" : "12485", "thumbnailURL" : "https://randomuser.me/api/portraits/men/38.jpg"},
+                {"videoId" : "12486", "thumbnailURL" : "https://randomuser.me/api/portraits/men/40.jpg"},
+                {"videoId" : "12487", "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12488", "thumbnailURL" : "https://randomuser.me/api/portraits/women/74.jpg"},
+                {"videoId" : "12489", "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12490", "thumbnailURL" : "https://randomuser.me/api/portraits/men/64.jpg"},
+                {"videoId" : "12491", "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12492", "thumbnailURL" : "https://randomuser.me/api/portraits/women/76.jpg"},
+                {"videoId" : "12493", "thumbnailURL" : "https://picsum.photos/630/630"}
+                
+            ],
+            "replies" : [
+                {"videoId" : "12494",  "thumbnailURL" : "https://randomuser.me/api/portraits/women/90.jpg"},
+                {"videoId" : "12495",  "thumbnailURL" : "https://picsum.photos/310/400"},
+                {"videoId" : "12496",  "thumbnailURL" : "https://picsum.photos/410/410"},
+                {"videoId" : "12497",  "thumbnailURL" : "https://picsum.photos/320/330"},
+                {"videoId" : "12498",  "thumbnailURL" : "https://picsum.photos/340/300"},
+                {"videoId" : "12499",  "thumbnailURL" : "https://picsum.photos/642/580"},
+                {"videoId" : "12500",  "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12501",  "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12502",  "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12503",  "thumbnailURL" : "https://randomuser.me/api/portraits/men/43.jpg"}
+            ]
+        }   
+    },
+
+    "user6" : {
+
+        "userInfo" : {
+            "userId" : "user6",
+            "username" : "natasha_2020",
+            "name" : "Natasha",
+            "avatar" : "https://randomuser.me/api/portraits/women/68.jpg",
+            "followers_count" : 322411,
+            "following_count" : 85,
+            "videos_count" : 511,
+            "description" : "Constantly put on your invisible crown."
+        },
+        "videoDataList" : {
+            "challenges" : [
+                {"videoId" : "12504", "thumbnailURL" : "https://randomuser.me/api/portraits/women/79.jpg"},
+                {"videoId" : "12505", "thumbnailURL" : "https://randomuser.me/api/portraits/women/80.jpg"},
+                {"videoId" : "12506", "thumbnailURL" : "https://randomuser.me/api/portraits/men/38.jpg"},
+                {"videoId" : "12507", "thumbnailURL" : "https://randomuser.me/api/portraits/men/40.jpg"},
+                {"videoId" : "12508", "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12509", "thumbnailURL" : "https://randomuser.me/api/portraits/women/74.jpg"},
+                {"videoId" : "12510", "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12511", "thumbnailURL" : "https://randomuser.me/api/portraits/men/64.jpg"},
+                {"videoId" : "12512", "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12513", "thumbnailURL" : "https://randomuser.me/api/portraits/women/76.jpg"},
+                {"videoId" : "12514", "thumbnailURL" : "https://picsum.photos/630/630"}
+                
+            ],
+            "replies" : [
+                {"videoId" : "12515",  "thumbnailURL" : "https://randomuser.me/api/portraits/women/90.jpg"},
+                {"videoId" : "12516",  "thumbnailURL" : "https://picsum.photos/310/400"},
+                {"videoId" : "12517",  "thumbnailURL" : "https://picsum.photos/410/410"},
+                {"videoId" : "12518",  "thumbnailURL" : "https://picsum.photos/320/330"},
+                {"videoId" : "12519",  "thumbnailURL" : "https://picsum.photos/340/300"},
+                {"videoId" : "12520",  "thumbnailURL" : "https://picsum.photos/642/580"},
+                {"videoId" : "12521",  "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12522",  "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12523",  "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12524",  "thumbnailURL" : "https://randomuser.me/api/portraits/men/43.jpg"}
+            ]
+        }   
+    },
+
+    "user7" : {
+
+        "userInfo" : {
+            "userId" : "user7",
+            "username" : "elizaa",
+            "name" : "Elizabeth",
+            "avatar" : "https://randomuser.me/api/portraits/women/17.jpg",
+            "followers_count" : 322111,
+            "following_count" : 202,
+            "videos_count" : 503,
+            "description" : "Be yourself there is no one better."
+        },
+        "videoDataList" : {
+            "challenges" : [
+                {"videoId" : "12525", "thumbnailURL" : "https://randomuser.me/api/portraits/women/79.jpg"},
+                {"videoId" : "12526", "thumbnailURL" : "https://randomuser.me/api/portraits/women/80.jpg"},
+                {"videoId" : "12527", "thumbnailURL" : "https://randomuser.me/api/portraits/men/38.jpg"},
+                {"videoId" : "12528", "thumbnailURL" : "https://randomuser.me/api/portraits/men/40.jpg"},
+                {"videoId" : "12529", "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12530", "thumbnailURL" : "https://randomuser.me/api/portraits/women/74.jpg"},
+                {"videoId" : "12531", "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12532", "thumbnailURL" : "https://randomuser.me/api/portraits/men/64.jpg"},
+                {"videoId" : "12533", "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12534", "thumbnailURL" : "https://randomuser.me/api/portraits/women/76.jpg"},
+                {"videoId" : "12535", "thumbnailURL" : "https://picsum.photos/630/630"}
+                
+            ],
+            "replies" : [
+                {"videoId" : "12536",  "thumbnailURL" : "https://randomuser.me/api/portraits/women/90.jpg"},
+                {"videoId" : "12537",  "thumbnailURL" : "https://picsum.photos/310/400"},
+                {"videoId" : "12538",  "thumbnailURL" : "https://picsum.photos/410/410"},
+                {"videoId" : "12539",  "thumbnailURL" : "https://picsum.photos/320/330"},
+                {"videoId" : "12540",  "thumbnailURL" : "https://picsum.photos/340/300"},
+                {"videoId" : "12541",  "thumbnailURL" : "https://picsum.photos/642/580"},
+                {"videoId" : "12542",  "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12543",  "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12544",  "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12545",  "thumbnailURL" : "https://randomuser.me/api/portraits/men/43.jpg"}
+            ]
+        }   
+    },
+
+    "user8" : {
+
+        "userInfo" : {
+            "userId" : "user8",
+            "username" : "mio_here",
+            "name" : "Mio",
+            "avatar" : "https://randomuser.me/api/portraits/women/40.jpg",
+            "followers_count" : 412111,
+            "following_count" : 102,
+            "videos_count" : 403,
+            "description" : "Join me on my next adventure!"
+        },
+        "videoDataList" : {
+            "challenges" : [
+                {"videoId" : "12546", "thumbnailURL" : "https://randomuser.me/api/portraits/women/79.jpg"},
+                {"videoId" : "12547", "thumbnailURL" : "https://randomuser.me/api/portraits/women/80.jpg"},
+                {"videoId" : "12548", "thumbnailURL" : "https://randomuser.me/api/portraits/men/38.jpg"},
+                {"videoId" : "12549", "thumbnailURL" : "https://randomuser.me/api/portraits/men/40.jpg"},
+                {"videoId" : "12550", "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12551", "thumbnailURL" : "https://randomuser.me/api/portraits/women/74.jpg"},
+                {"videoId" : "12552", "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12553", "thumbnailURL" : "https://randomuser.me/api/portraits/men/64.jpg"},
+                {"videoId" : "12554", "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12555", "thumbnailURL" : "https://randomuser.me/api/portraits/women/76.jpg"},
+                {"videoId" : "12556", "thumbnailURL" : "https://picsum.photos/630/630"}
+                
+            ],
+            "replies" : [
+                {"videoId" : "12557",  "thumbnailURL" : "https://randomuser.me/api/portraits/women/90.jpg"},
+                {"videoId" : "12558",  "thumbnailURL" : "https://picsum.photos/310/400"},
+                {"videoId" : "12559",  "thumbnailURL" : "https://picsum.photos/410/410"},
+                {"videoId" : "12560",  "thumbnailURL" : "https://picsum.photos/320/330"},
+                {"videoId" : "12561",  "thumbnailURL" : "https://picsum.photos/340/300"},
+                {"videoId" : "12562",  "thumbnailURL" : "https://picsum.photos/642/580"},
+                {"videoId" : "12563",  "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12564",  "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12565",  "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12566",  "thumbnailURL" : "https://randomuser.me/api/portraits/men/43.jpg"}
+            ]
+        }   
+    },
+
+    "user9" : {
+
+        "userInfo" : {
+            "userId" : "user9",
+            "username" : "the_only_erza",
+            "name" : "Mio",
+            "avatar" : "https://randomuser.me/api/portraits/women/72.jpg",
+            "followers_count" : 442111,
+            "following_count" : 104,
+            "videos_count" : 85,
+            "description" : "One life. One world. Explore it."
+        },
+        "videoDataList" : {
+            "challenges" : [
+                {"videoId" : "12567", "thumbnailURL" : "https://randomuser.me/api/portraits/women/79.jpg"},
+                {"videoId" : "12568", "thumbnailURL" : "https://randomuser.me/api/portraits/women/80.jpg"},
+                {"videoId" : "12569", "thumbnailURL" : "https://randomuser.me/api/portraits/men/38.jpg"},
+                {"videoId" : "12570", "thumbnailURL" : "https://randomuser.me/api/portraits/men/40.jpg"},
+                {"videoId" : "12571", "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12572", "thumbnailURL" : "https://randomuser.me/api/portraits/women/74.jpg"},
+                {"videoId" : "12573", "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12574", "thumbnailURL" : "https://randomuser.me/api/portraits/men/64.jpg"},
+                {"videoId" : "12575", "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12576", "thumbnailURL" : "https://randomuser.me/api/portraits/women/76.jpg"},
+                {"videoId" : "12577", "thumbnailURL" : "https://picsum.photos/630/630"}
+                
+            ],
+            "replies" : [
+                {"videoId" : "12578",  "thumbnailURL" : "https://randomuser.me/api/portraits/women/90.jpg"},
+                {"videoId" : "12579",  "thumbnailURL" : "https://picsum.photos/310/400"},
+                {"videoId" : "12580",  "thumbnailURL" : "https://picsum.photos/410/410"},
+                {"videoId" : "12581",  "thumbnailURL" : "https://picsum.photos/320/330"},
+                {"videoId" : "12582",  "thumbnailURL" : "https://picsum.photos/340/300"},
+                {"videoId" : "12583",  "thumbnailURL" : "https://picsum.photos/642/580"},
+                {"videoId" : "12584",  "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12585",  "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12586",  "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12587",  "thumbnailURL" : "https://randomuser.me/api/portraits/men/43.jpg"}
+            ]
+        }   
+    },
+
+    "user10" : {
+
+        "userInfo" : {
+            "userId" : "user10",
+            "username" : "kk_kenji",
+            "name" : "Kenji",
+            "avatar" : "https://randomuser.me/api/portraits/men/51.jpg",
+            "followers_count" : 472111,
+            "following_count" : 114,
+            "videos_count" : 13,
+            "description" : "I’ve been through the darkest nights to reach my brightest days."
+        },
+        "videoDataList" : {
+            "challenges" : [
+                {"videoId" : "12588", "thumbnailURL" : "https://randomuser.me/api/portraits/women/79.jpg"},
+                {"videoId" : "12589", "thumbnailURL" : "https://randomuser.me/api/portraits/women/80.jpg"},
+                {"videoId" : "12590", "thumbnailURL" : "https://randomuser.me/api/portraits/men/38.jpg"},
+                {"videoId" : "12591", "thumbnailURL" : "https://randomuser.me/api/portraits/men/40.jpg"},
+                {"videoId" : "12592", "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12593", "thumbnailURL" : "https://randomuser.me/api/portraits/women/74.jpg"},
+                {"videoId" : "12594", "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12595", "thumbnailURL" : "https://randomuser.me/api/portraits/men/64.jpg"},
+                {"videoId" : "12596", "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12597", "thumbnailURL" : "https://randomuser.me/api/portraits/women/76.jpg"},
+                {"videoId" : "12598", "thumbnailURL" : "https://picsum.photos/630/630"}
+                
+            ],
+            "replies" : [
+                {"videoId" : "12599",  "thumbnailURL" : "https://randomuser.me/api/portraits/women/90.jpg"},
+                {"videoId" : "12600",  "thumbnailURL" : "https://picsum.photos/310/400"},
+                {"videoId" : "12601",  "thumbnailURL" : "https://picsum.photos/410/410"},
+                {"videoId" : "12602",  "thumbnailURL" : "https://picsum.photos/320/330"},
+                {"videoId" : "12603",  "thumbnailURL" : "https://picsum.photos/340/300"},
+                {"videoId" : "12604",  "thumbnailURL" : "https://picsum.photos/642/580"},
+                {"videoId" : "12605",  "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12606",  "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12607",  "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12608",  "thumbnailURL" : "https://randomuser.me/api/portraits/men/43.jpg"}
+            ]
+        }   
+    },
+
+    "user11" : {
+
+        "userInfo" : {
+            "userId" : "user11",
+            "username" : "real_tom",
+            "name" : "Tom",
+            "avatar" : "https://randomuser.me/api/portraits/men/51.jpg",
+            "followers_count" : 472111,
+            "following_count" : 114,
+            "videos_count" : 13,
+            "description" : "Searching for jerry."
+        },
+        "videoDataList" : {
+            "challenges" : [
+                {"videoId" : "12609", "thumbnailURL" : "https://randomuser.me/api/portraits/women/79.jpg"},
+                {"videoId" : "12610", "thumbnailURL" : "https://randomuser.me/api/portraits/women/80.jpg"},
+                {"videoId" : "12611", "thumbnailURL" : "https://randomuser.me/api/portraits/men/38.jpg"},
+                {"videoId" : "12612", "thumbnailURL" : "https://randomuser.me/api/portraits/men/40.jpg"},
+                {"videoId" : "12613", "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12614", "thumbnailURL" : "https://randomuser.me/api/portraits/women/74.jpg"},
+                {"videoId" : "12615", "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12616", "thumbnailURL" : "https://randomuser.me/api/portraits/men/64.jpg"},
+                {"videoId" : "12617", "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12618", "thumbnailURL" : "https://randomuser.me/api/portraits/women/76.jpg"},
+                {"videoId" : "12619", "thumbnailURL" : "https://picsum.photos/630/630"}
+                
+            ],
+            "replies" : [
+                {"videoId" : "12620",  "thumbnailURL" : "https://randomuser.me/api/portraits/women/90.jpg"},
+                {"videoId" : "12621",  "thumbnailURL" : "https://picsum.photos/310/400"},
+                {"videoId" : "12622",  "thumbnailURL" : "https://picsum.photos/410/410"},
+                {"videoId" : "12623",  "thumbnailURL" : "https://picsum.photos/320/330"},
+                {"videoId" : "12624",  "thumbnailURL" : "https://picsum.photos/340/300"},
+                {"videoId" : "12625",  "thumbnailURL" : "https://picsum.photos/642/580"},
+                {"videoId" : "12626",  "thumbnailURL" : "https://picsum.photos/200/200"},
+                {"videoId" : "12627",  "thumbnailURL" : "https://picsum.photos/320/290"},
+                {"videoId" : "12628",  "thumbnailURL" : "https://picsum.photos/400/410"},
+                {"videoId" : "12629",  "thumbnailURL" : "https://randomuser.me/api/portraits/men/43.jpg"}
+            ]
+        }   
+    }
+
+}

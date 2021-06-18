@@ -1,0 +1,54 @@
+{
+  "banner-images": [
+    "https://hashmeta.com/wp-content/uploads/2015/04/Hashmeta-Banner-Getting-Your-Hashtag-To-Trend-.jpg",
+    "https://images.unsplash.com/photo-1550571969-92381c4a96d1?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=768&ixlib=rb-1.2.1&q=80&w=1024",
+    "https://images.unsplash.com/photo-1518563709022-b129486c01c1?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=768&ixlib=rb-1.2.1&q=80&w=1024",
+    "https://images.unsplash.com/photo-1596815064285-45ed8a9c0463?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=768&ixlib=rb-1.2.1&q=80&w=1024",
+    "https://images.unsplash.com/photo-1569933021094-07552c700755?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=768&ixlib=rb-1.2.1&q=80&w=1024"],
+  "trending-hashtags": [
+    {
+      "hashtag_id": "cookinfive",
+      "video_count": "1.5M",
+      "videos": [
+        {
+          "video_id": "2a4C681d",
+          "thumbnail": "https://i.pinimg.com/564x/83/36/98/8336984242861a81acc18f12b031b503.jpg"
+        },
+        {
+          "video_id": "1yu87QR9",
+          "thumbnail": "https://i.pinimg.com/564x/83/36/98/8336984242861a81acc18f12b031b503.jpg"
+        },
+        {
+          "video_id": "71092e12",
+          "thumbnail": "https://i.pinimg.com/564x/83/36/98/8336984242861a81acc18f12b031b503.jpg"
+        },
+        {
+          "video_id": "aw123gAs",
+          "thumbnail": "https://i.pinimg.com/564x/83/36/98/8336984242861a81acc18f12b031b503.jpg"
+        }
+      ]
+    },
+    {
+      "hashtag_id": "awesometrick",
+      "video_count": "244K",
+      "videos": [
+        {
+          "video_id": "2b4C681d",
+          "thumbnail": "https://i.pinimg.com/564x/83/36/98/8336984242861a81acc18f12b031b503.jpg"
+        },
+        {
+          "video_id": "1yu87QR7",
+          "thumbnail": "https://i.pinimg.com/564x/83/36/98/8336984242861a81acc18f12b031b503.jpg"
+        },
+        {
+          "video_id": "71090e12",
+          "thumbnail": "https://i.pinimg.com/564x/83/36/98/8336984242861a81acc18f12b031b503.jpg"
+        },
+        {
+          "video_id": "aW123gAs",
+          "thumbnail": "https://i.pinimg.com/564x/83/36/98/8336984242861a81acc18f12b031b503.jpg"
+        }
+      ]
+    }
+  ]
+}

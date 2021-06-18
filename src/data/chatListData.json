@@ -1,0 +1,173 @@
+[
+    {
+        "chatRoomId" : "room100",
+        "users" : [{
+            "_id" : "user1",
+            "name" : "Nitesh",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+        }, {
+            "_id" : "user2",
+            "name" : "Kaustav Bhattacharjee",
+            "avatar" : "https://randomuser.me/api/portraits/men/43.jpg"
+        }],
+        "lastMessage" : {
+            "_id" : "msga101",
+            "text" : "Hey, Lets go for a walk !",
+            "createdBy" : "user2",
+            "createdAt" : 1608720189987
+        }
+    }, {
+        "chatRoomId" : "room101",
+        "users" : [{
+            "_id" : "user1",
+            "name" : "Nitesh",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+        }, {
+            "_id" : "user3",
+            "name" : "Tony Stark",
+            "avatar" : "https://randomuser.me/api/portraits/men/46.jpg"
+        }],
+        "lastMessage" : {
+            "_id" : "msgb101",
+            "text" : "Yes, See you later Man!",
+            "createdBy" : "user3",
+            "createdAt" : 1608720482841
+        }
+    }, {
+        "chatRoomId" : "room102",
+        "users" : [{
+            "_id" : "user1",
+            "name" : "Nitesh",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+        }, {
+            "_id" : "user4",
+            "name" : "Thanos",
+            "avatar" : "https://randomuser.me/api/portraits/men/22.jpg"
+        }],
+        "lastMessage" : {
+            "_id" : "msgc101",
+            "text" : "Perfectly Balanced as all things should be!",
+            "createdBy" : "user4",
+            "createdAt" : 1608720534153
+        }
+    }, {
+        "chatRoomId" : "room103",
+        "users" : [{
+            "_id" : "user1",
+            "name" : "Nitesh",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+        }, {
+            "_id" : "user5",
+            "name" : "Mariko Yashida",
+            "avatar" : "https://randomuser.me/api/portraits/women/76.jpg"
+        }],
+        "lastMessage" : {
+            "_id" : "msgd101",
+            "text" : "Hey Nitesh, How is it going!",
+            "createdBy" : "user5",
+            "createdAt" : 1608720549709
+        }
+    }, {
+        "chatRoomId" : "room104",
+        "users" : [{
+            "_id" : "user1",
+            "name" : "Nitesh",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+        }, {
+            "_id" : "user6",
+            "name" : "Natasha",
+            "avatar" : "https://randomuser.me/api/portraits/women/68.jpg"
+        }],
+        "lastMessage" : {
+            "_id" : "msge101",
+            "text" : "Good Night!",
+            "createdBy" : "user1",
+            "createdAt" : 1608720567677
+        }
+    }, {
+        "chatRoomId" : "room105",
+        "users" : [{
+            "_id" : "user1",
+            "name" : "Nitesh",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+        }, {
+            "_id" : "user7",
+            "name" : "Elizabeth",
+            "avatar" : "https://randomuser.me/api/portraits/women/17.jpg"
+        }],
+        "lastMessage" : {
+            "_id" : "msgf101",
+            "text" : "Hey, Lets go for a walk this afternoon!",
+            "createdBy" : "user1",
+            "createdAt" : 1608720617944
+        }
+    }, {
+        "chatRoomId" : "room106",
+        "users" : [{
+            "_id" : "user1",
+            "name" : "Nitesh",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+        }, {
+            "_id" : "user8",
+            "name" : "Mio",
+            "avatar" : "https://randomuser.me/api/portraits/women/40.jpg"
+        }],
+        "lastMessage" : {
+            "_id" : "msgg101",
+            "text" : "Hello, My Phone isn't working as expected, can you please fix it for me !",
+            "createdBy" : "user6",
+            "createdAt" : 1608720603340
+        }
+    }, {
+        "chatRoomId" : "room107",
+        "users" : [{
+            "_id" : "user1",
+            "name" : "Nitesh",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+        }, {
+            "_id" : "user9",
+            "name" : "Erza",
+            "avatar" : "https://randomuser.me/api/portraits/women/72.jpg"
+        }],
+        "lastMessage" : {
+            "_id" : "msgh101",
+            "text" : "Hey Erza, I saw you with kaustav last night down the road. How is it going now !",
+            "createdBy" : "user1",
+            "createdAt" : 1608720640598
+        }
+    }, {
+        "chatRoomId" : "room108",
+        "users" : [{
+            "_id" : "user1",
+            "name" : "Nitesh",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+        }, {
+            "_id" : "user10",
+            "name" : "Kenji",
+            "avatar" : "https://randomuser.me/api/portraits/men/51.jpg"
+        }],
+        "lastMessage" : {
+            "_id" : "msgi100",
+            "text" : "Hey Kenji, I don't know whether I should bring this up, but now-a-days you look so sad! Can you share with me what has happened !",
+            "createdBy" : "user1",
+            "createdAt" : 1608720664046
+        }
+    }, {
+        "chatRoomId" : "room109",
+        "users" : [{
+            "_id" : "user1",
+            "name" : "Nitesh",
+            "avatar" : "https://randomuser.me/api/portraits/men/35.jpg"
+        }, {
+            "_id" : "user11",
+            "name" : "Tom",
+            "avatar" : "https://randomuser.me/api/portraits/men/1.jpg"
+        }],
+        "lastMessage" : {
+            "_id" : "msgj100",
+            "text" : "Hey Nitesh, I am searching for Jerry. Last night dropped a dumbell on my face. I have to take revenge. If you see him, please inform me. !",
+            "createdBy" : "user9",
+            "createdAt" : 1608720678056
+        }
+    }
+]

@@ -1,0 +1,50 @@
+{
+  "results": [
+    {
+      "category": "Globally Trending",
+      "users": [
+        {
+          "username": "dare.albert",
+          "fullname": "Albert Hudson",
+          "is_celeb": true,
+          "profile_pic": "https://www.venmond.com/demo/vendroid/img/avatar/avatar-2.jpg"
+        },
+        {
+          "username": "dare.albert1",
+          "fullname": "Albert Hudson",
+          "is_celeb": false,
+          "profile_pic": "https://www.venmond.com/demo/vendroid/img/avatar/avatar.jpg"
+        },
+        {
+          "username": "dare.albert2",
+          "fullname": "Albert Hudson",
+          "is_celeb": false,
+          "profile_pic": "https://www.venmond.com/demo/vendroid/img/avatar/avatar-3.jpg"
+        }
+      ]
+    },
+    {
+      "category": "New Creators",
+      "users": [
+        {
+          "username": "dare.albert3",
+          "fullname": "Albert Hudson",
+          "is_celeb": false,
+          "profile_pic": "https://www.venmond.com/demo/vendroid/img/avatar/avatar-5.jpg"
+        },
+        {
+          "username": "dare.albert4",
+          "fullname": "Albert Hudson",
+          "is_celeb": false,
+          "profile_pic": "https://www.venmond.com/demo/vendroid/img/avatar/avatar-4.jpg"
+        },
+        {
+          "username": "dare.albert5",
+          "fullname": "Albert Hudson",
+          "is_celeb": false,
+          "profile_pic": "https://www.venmond.com/demo/vendroid/img/avatar/avatar-6.jpg"
+        }
+      ]
+    }
+  ]
+}
